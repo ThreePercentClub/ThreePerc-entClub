@@ -1,1 +1,33 @@
-# ThreePerc-entClub
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThreePercentClub&label=Profile%20views&color=0e75b6&style=flat" alt="ThreePercentClub" /> </p>
+
+
+<h3 align="center">Tech Enthusiast || Programmer </h3>
+
+### Official Website-->[Click to View][Link1]
+[Link1]:https://threepercentclub.github.io/webpage///
+
+### Connect with me :
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/company/3-club/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/company/3-club/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](#gh-dark-mode-only)
+
+
+
+
+
+### Github Stats:
+<!--
+<img alt="tasleem57's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tasleem57=react-dark&area=true" width="100%">
+-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasleem57&show_icons=true&locale=en&layout=compact" alt="tasleem57" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasleem57&show_icons=true&locale=en" alt="tasleem57" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasleem57&" alt="tasleem57" /></p>
+
+
