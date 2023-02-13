@@ -22,12 +22,12 @@
 
 ### Github Stats:
 <!--
-<img alt="tasleem57's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tasleem57=react-dark&area=true" width="100%">
+<img alt="ThreePercentClub's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ThreePercentClub=react-dark&area=true" width="100%">
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasleem57&show_icons=true&locale=en&layout=compact" alt="tasleem57" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThreePercentClub&show_icons=true&locale=en&layout=compact" alt="ThreePercentClub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasleem57&show_icons=true&locale=en" alt="tasleem57" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThreePercentClub&show_icons=true&locale=en" alt="ThreePercentClub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasleem57&" alt="tasleem57" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThreePercentClub&" alt="ThreePercentClub" /></p>
 
 
