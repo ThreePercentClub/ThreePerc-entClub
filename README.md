@@ -1,7 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThreePercentClub&label=Profile%20views&color=0e75b6&style=flat" alt="ThreePercentClub" /> </p>
 
 
-<h3 align="center">Tech Enthusiast || Programmer </h3>
+![Header Image- 3%_Club](frent.png)
+<h3 align="center">Technical Guide </h3>
 
 ### Official Website-->[Click to View][Link1]
 [Link1]:https://threepercentclub.github.io/webpage///
