@@ -8,14 +8,14 @@
 [Link1]:https://threepercentclub.github.io/webpage///
 
 ### Connect with me :
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/company/3-club/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/company/3-club/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/company/3-club//#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/company/3-club//#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](/#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](/#gh-dark-mode-only)
 
 
 
