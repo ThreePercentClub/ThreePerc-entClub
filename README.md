@@ -7,12 +7,13 @@
 ### Official Website-->[Click to View][Link1]
 [Link1]:https://threepercentclub.github.io/webpage///
 
+
 ### Connect with me :
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tasleem-banu-s-924858236/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tasleem-banu-s-924858236/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/3-percent-club-1a0b76246/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/3-percent-club-1a0b76246/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/57Tasleem#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/57Tasleem#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](#gh-dark-mode-only)
